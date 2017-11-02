@@ -88,3 +88,11 @@
 0.0.0.0 r19---sn-4g57knkz.googlevideo.com
 0.0.0.0 r20---sn-4g57knde.googlevideo.com
 0.0.0.0 r20---sn-5hne6n76.googlevideo.com
+0.0.0.0 akamaitechnologies.com
+0.0.0.0 akamaiedge.net
+0.0.0.0 ocsp.comodoca.com
+0.0.0.0 ocsp.usertrust.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 analytic-google.com
+0.0.0.0 www.analytic-google.com
