@@ -77,7 +77,13 @@
 0.0.0.0 r13---sn-4g57knzl.googlevideo.com
 0.0.0.0 r13---sn-5hnedn7k.googlevideo.com
 0.0.0.0 r15---sn-4g57kn67.googlevideo.com
-0.0.0.0 r15---sn-4g57knr7.googlevideo.com
+0.0.0.0 r1---sn-4g57kn6y.googlevideo.com	 
+0.0.0.0 r1---sn-4g57kn76.googlevideo.com
+0.0.0.0 r1---sn-4g57kne6.googlevideo.com
+0.0.0.0 r1---sn-4g57kned.googlevideo.com
+0.0.0.0 r1---sn-4g57knke.googlevideo.com 
+0.0.0.0 r1---sn-4g57knr7.googlevideo.com
+0.0.0.0 r1---sn-4g57knrs.googlevideo.com
 0.0.0.0 r15---sn-5hne6nl6.googlevideo.com
 0.0.0.0 r16---sn-4g57kn7l.googlevideo.com
 0.0.0.0 r17---sn-4g57kn7s.googlevideo.com
