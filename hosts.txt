@@ -9,12 +9,12 @@
 0.0.0.0 r4---sn-vgqs7nez.googlevideo.com
 0.0.0.0 r4.sn-vgqs7nez.googlevideo.com
 0.0.0.0 www.youtube-nocookie.com
-0.0.0.0 i1.ytimg.com
+#0.0.0.0 i1.ytimg.com
 0.0.0.0 r17---sn-vgqsenes.googlevideo.com
 0.0.0.0 r2---sn-vgqs7n7k.googlevideo.com
 0.0.0.0 clients6.google.com
-0.0.0.0 manifest.googlevideo.com
-0.0.0.0 redirector.googlevideo.com
+#0.0.0.0 manifest.googlevideo.com
+#0.0.0.0 redirector.googlevideo.com
 0.0.0.0 r1---sn-vgqsen7z.googlevideo.com
 0.0.0.0 r1.sn-vgqsen7z.googlevideo.com
 0.0.0.0 r20---sn-vgqs7ne7.googlevideo.com
